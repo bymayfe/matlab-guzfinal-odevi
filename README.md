@@ -1,5 +1,4 @@
-# matlab-guzfinal-odevi
-IST307 MATLAB ile Programlama Dersi Final Ödev Dosyaları
+# IST307 MATLAB ile Programlama Dersi Final Ödev Dosyaları
 
 ## 1. Newton-Raphson Yöntemi ile Kök Tahmini
 ### MATLAB Fonksiyon Kodu: `Fkok.m`
