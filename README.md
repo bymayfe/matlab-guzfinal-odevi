@@ -24,7 +24,7 @@ Verilen verinin parametre değerlerini hesaplar. Çıktı:
 ---
 
 ## 3. Basit Doğrusal Regresyon Analizi GUI
-Kod ve exe dosyası rar dosyası içerisinde verilmiştir. Yeni GUI versiyonu kullanılarak yapılmıştır.
+Yeni GUI versiyonu kullanılarak yapılmıştır.
 - GUI .fig ve .m uzantılı dosyalar yerine `soru3.mlapp` uzantılı dosya ile verilmiştir.
 - Kodların detayları `Code View` kısmında görülebilir.
 - Ek olarak `soru3.m` dosyasında GUI olmadan çalışabilir versiyonu mevcuttur.
@@ -32,7 +32,7 @@ Kod ve exe dosyası rar dosyası içerisinde verilmiştir. Yeni GUI versiyonu ku
 ---
 
 ## 4. Örneklem Özet İstatistikleri
-Kod ve exe dosyası rar dosyası içerisinde verilmiştir. Yeni GUI versiyonu kullanılarak yapılmıştır.
+Yeni GUI versiyonu kullanılarak yapılmıştır.
 - GUI .fig ve .m uzantılı dosyalar yerine `soru4.mlapp` uzantılı dosya ile verilmiştir.
 - Kodların detayları `Code View` kısmında görülebilir.
 - Ek olarak `soru4.m` dosyasında GUI olmadan çalışabilir versiyonu mevcuttur.
